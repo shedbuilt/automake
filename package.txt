@@ -1,5 +1,5 @@
 NAME=automake
 VERSION=1.16.1
-REVISION=3
+REVISION=1
 SRC=https://ftp.gnu.org/gnu/automake/automake-1.16.1.tar.xz
 SRCMD5=53f38e7591fa57c3d2cee682be668e5b
